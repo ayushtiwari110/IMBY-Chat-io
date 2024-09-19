@@ -14,9 +14,10 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import LandingPage from '@/components/landing-page';
 
 const CONVEX_URL = process.env.NEXT_PUBLIC_CONVEX_URL!;
+const CUSTOM_URL = process.env.NEXT_PUBLIC_CUSTOM_URL!;
 const CLERK_PUBLISHABLE_KEY = process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY!;
 
-const convex = new ConvexReactClient(CONVEX_URL);
+const convex = new ConvexReactClient(CUSTOM_URL ?? CONVEX_URL);
 
 const ConvexClientProvider: FC<{ children: ReactNode }> = ({ children }) => {
   return (
