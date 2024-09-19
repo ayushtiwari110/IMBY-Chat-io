@@ -2,7 +2,7 @@
 export default {
   providers: [
     {
-      domain: "https://clerk.chat-io.tech",
+      domain: "https://clerk.chat-io.tech/",
       applicationID: 'convex',
     },
   ],
