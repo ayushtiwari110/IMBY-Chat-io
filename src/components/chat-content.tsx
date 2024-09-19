@@ -82,7 +82,7 @@ export const ChatContent: FC<{ chatId: Id<'conversations'> }> = ({
         isTyping={isTyping}
       />
 
-      <div className='p-3 flex flex-1 flex-col-reverse gap-2'>
+      <div className='p-3 flex overflow-y-auto flex-1 flex-col-reverse gap-2'>
         {messages?.map((message, index) => (
           <MessageItem
             key={message._id}
