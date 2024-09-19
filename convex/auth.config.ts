@@ -2,7 +2,7 @@
 export default {
   providers: [
     {
-      domain: 'https://known-whippet-52.clerk.accounts.dev/',
+      domain: process.env.NEXT_PUBLIC_CLERK_JWT!,
       applicationID: 'convex',
     },
   ],
