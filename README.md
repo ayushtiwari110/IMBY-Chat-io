@@ -17,10 +17,14 @@
 </p>
 <h1 align="center">Chat io - Connect with your loved ones!💌</h1>
 
+
 ## Introduction
 
 This project is an advanced real-time chat application developed as part of I'm Beside You's software internship assignment. 
 The application showcases the ability to work with real-time data, handle user authentication, integrate third-party APIs, and deploy a production-ready web application.
+
+## System Dseign Documentation📃
+Please use this link to view the System Design Document for this project. [System Design Document](https://drive.google.com/file/d/1ijuBHEzg3TPzkJrAjjprPsMbrXBKOBQl/view?usp=sharing)
 
 ## Features ✨
 
