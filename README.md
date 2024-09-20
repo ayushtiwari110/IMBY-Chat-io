@@ -17,6 +17,8 @@
 </p>
 <h1 align="center">Chat io - Connect with your loved ones!💌</h1>
 
+![Screenshot 2024-09-20 060702](https://github.com/user-attachments/assets/c17dfe7b-950d-4ded-aafb-976fd859f89c)
+
 
 ## Introduction
 
