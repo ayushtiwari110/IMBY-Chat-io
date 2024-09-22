@@ -28,11 +28,13 @@ export default function LandingPage({SignInButton}: {SignInButton: React.ReactNo
               Connect with friends and colleagues instantly
             </p>
           </div>
-          <div className="mt-4 flex items-center justify-center text-xl font-medium bg-black text-white py-2 rounded-xl">
+          <div className="mt-4 text-xl justify-center text-center">
             {/* <Button className="w-full" size="lg">
               Sign In to Chat io
             </Button> */}
-            {SignInButton}
+            <div className=" text-center inline-block font-medium bg-black text-white py-2 px-4 rounded-xl">
+              {SignInButton}
+            </div>
           </div>
         </div>
         
