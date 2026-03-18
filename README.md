@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" />
 </p>
-<h1 align="center">Chat io - Connect with your loved ones!💌</h1>
+<h1 align="center">Vocal io - Connect with your loved ones!💌</h1>
 
 ![Screenshot 2024-09-20 060702](https://github.com/user-attachments/assets/c17dfe7b-950d-4ded-aafb-976fd859f89c)
 
